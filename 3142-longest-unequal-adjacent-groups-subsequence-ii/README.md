@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii">3142. Longest Unequal Adjacent Groups Subsequence II</a></h2><h3>Medium</h3><hr><p>You are given a string array <code>words</code>, and an array <code>groups</code>, both arrays having length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii">Longest Unequal Adjacent Groups Subsequence II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string array <code>words</code>, and an array <code>groups</code>, both arrays having length <code>n</code>.</p>
 
 <p>The <strong>hamming distance</strong> between two strings of equal length is the number of positions at which the corresponding characters are <strong>different</strong>.</p>
 
