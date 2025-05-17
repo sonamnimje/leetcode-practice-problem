@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
