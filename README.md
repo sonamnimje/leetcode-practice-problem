@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0125-valid-palindrome) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Math
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0010-regular-expression-matching) |
 | [1013-fibonacci-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1013-fibonacci-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0010-regular-expression-matching) |
 | [1013-fibonacci-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
