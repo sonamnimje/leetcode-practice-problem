@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0075-sort-colors) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Binary Search
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0075-sort-colors) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
