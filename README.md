@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1013-fibonacci-number) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
