@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
