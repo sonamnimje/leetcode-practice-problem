@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/zero-array-transformation-i">3639. Zero Array Transformation I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and a 2D array <code>queries</code>, where <code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code>.</p>
+<h2><a href="https://leetcode.com/problems/zero-array-transformation-i">Zero Array Transformation I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and a 2D array <code>queries</code>, where <code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code>.</p>
 
 <p>For each <code>queries[i]</code>:</p>
 
