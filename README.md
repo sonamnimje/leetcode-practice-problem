@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1013-fibonacci-number) |
 | [3321-type-of-triangle](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3321-type-of-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0073-set-matrix-zeroes) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
