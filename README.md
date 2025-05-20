@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3639-zero-array-transformation-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
