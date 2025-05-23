@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1013-fibonacci-number) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0229-majority-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0136-single-number) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0493-reverse-pairs) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
