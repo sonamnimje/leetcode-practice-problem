@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0125-valid-palindrome) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3639-zero-array-transformation-i) |
