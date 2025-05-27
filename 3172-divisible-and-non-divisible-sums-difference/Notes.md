@@ -1,1 +1,0 @@
-<h2>divisible-and-non-divisible-sums-difference Notes</h2><hr>[ Time taken: 13 m 24 s ]
