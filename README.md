@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0945-snakes-and-ladders](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0945-snakes-and-ladders) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0945-snakes-and-ladders) |
 ## Counting
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
