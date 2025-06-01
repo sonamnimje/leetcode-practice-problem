@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1013-fibonacci-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -212,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
