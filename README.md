@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0945-snakes-and-ladders) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
