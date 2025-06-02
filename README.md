@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0135-candy) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
