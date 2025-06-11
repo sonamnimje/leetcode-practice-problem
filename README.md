@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3639-zero-array-transformation-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3639-zero-array-transformation-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
