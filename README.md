@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1013-fibonacci-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3201-distribute-candies-among-children-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0135-candy) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
