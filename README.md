@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3194-find-words-containing-character) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0229-majority-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3321-type-of-triangle) |
