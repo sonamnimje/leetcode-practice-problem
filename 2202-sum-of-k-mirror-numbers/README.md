@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-k-mirror-numbers">2202. Sum of k-Mirror Numbers</a></h2><h3>Hard</h3><hr><p>A <strong>k-mirror number</strong> is a <strong>positive</strong> integer <strong>without leading zeros</strong> that reads the same both forward and backward in base-10 <strong>as well as</strong> in base-k.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-k-mirror-numbers">Sum of k-Mirror Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>A <strong>k-mirror number</strong> is a <strong>positive</strong> integer <strong>without leading zeros</strong> that reads the same both forward and backward in base-10 <strong>as well as</strong> in base-k.</p>
 
 <ul>
 	<li>For example, <code>9</code> is a 2-mirror number. The representation of <code>9</code> in base-10 and base-2 are <code>9</code> and <code>1001</code> respectively, which read the same both forward and backward.</li>
