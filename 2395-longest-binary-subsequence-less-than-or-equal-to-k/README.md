@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k">2395. Longest Binary Subsequence Less Than or Equal to K</a></h2><h3>Medium</h3><hr><p>You are given a binary string <code>s</code> and a positive integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k">Longest Binary Subsequence Less Than or Equal to K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a binary string <code>s</code> and a positive integer <code>k</code>.</p>
 
 <p>Return <em>the length of the <strong>longest</strong> subsequence of </em><code>s</code><em> that makes up a <strong>binary</strong> number less than or equal to</em> <code>k</code>.</p>
 
