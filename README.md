@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sonamnimje/leetcode-practice-problem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
