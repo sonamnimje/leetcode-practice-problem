@@ -7,7 +7,6 @@ public:
             else odd++;
         }
 
-        // Case 3: Find longest alternating parity subsequence
         int alt = 1;
         int prev = nums[0] % 2;
         for (int i = 1; i < nums.size(); ++i) {
