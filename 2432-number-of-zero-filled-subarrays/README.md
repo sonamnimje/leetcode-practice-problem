@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-zero-filled-subarrays">2432. Number of Zero-Filled Subarrays</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>the number of <strong>subarrays</strong> filled with </em><code>0</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-zero-filled-subarrays">Number of Zero-Filled Subarrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer array <code>nums</code>, return <em>the number of <strong>subarrays</strong> filled with </em><code>0</code>.</p>
 
 <p>A <strong>subarray</strong> is a contiguous non-empty sequence of elements within an array.</p>
 
