@@ -2,21 +2,23 @@ class Solution {
 public:
     int totalFruit(vector<int>& fruits) 
     {
-        unordered_map<int, int> basket;
-        int left = 0, maxLen = 0;
-        for (int right = 0; right < fruits.size(); right++) 
+        unordered_map<int, int> count; 
+        int left = 0, right = 0, maxLen = 0;
+        while (right < fruits.size()) 
         {
-            basket[fruits[right]]++;
-            while (basket.size() > 2) 
+            count[fruits[right]]++;
+            // if more than 2 types, shrink from left
+            while (count.size() > 2) 
             {
-                basket[fruits[left]]--;
-                if (basket[fruits[left]] == 0) 
+                count[fruits[left]]--;
+                if (count[fruits[left]] == 0) 
                 {
-                    basket.erase(fruits[left]);
+                    count.erase(fruits[left]);
                 }
                 left++;
             }
             maxLen = max(maxLen, right - left + 1);
+            right++;
         }
         return maxLen;
     }
