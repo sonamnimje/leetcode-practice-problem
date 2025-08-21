@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-submatrices-with-all-ones">1628. Count Submatrices With All Ones</a></h2><h3>Medium</h3><hr><p>Given an <code>m x n</code> binary matrix <code>mat</code>, <em>return the number of <strong>submatrices</strong> that have all ones</em>.</p>
+<h2><a href="https://leetcode.com/problems/count-submatrices-with-all-ones">Count Submatrices With All Ones</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an <code>m x n</code> binary matrix <code>mat</code>, <em>return the number of <strong>submatrices</strong> that have all ones</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
