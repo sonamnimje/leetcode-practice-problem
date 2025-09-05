@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero">2837. Minimum Operations to Make the Integer Zero</a></h2><h3>Medium</h3><hr><p>You are given two integers <code>num1</code> and <code>num2</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero">Minimum Operations to Make the Integer Zero</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two integers <code>num1</code> and <code>num2</code>.</p>
 
 <p>In one operation, you can choose integer <code>i</code> in the range <code>[0, 60]</code> and subtract <code>2<sup>i</sup> + num2</code> from <code>num1</code>.</p>
 
