@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/vowel-spellchecker">1006. Vowel Spellchecker</a></h2><h3>Medium</h3><hr><p>Given a <code>wordlist</code>, we want to implement a spellchecker that converts a query word into a correct word.</p>
+<h2><a href="https://leetcode.com/problems/vowel-spellchecker">Vowel Spellchecker</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a <code>wordlist</code>, we want to implement a spellchecker that converts a query word into a correct word.</p>
 
 <p>For a given <code>query</code> word, the spell checker handles two categories of spelling mistakes:</p>
 
